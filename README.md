@@ -11,3 +11,4 @@ Uses [sage](https://github.com/nahojer/sage) under the hood to match incoming HT
 
 All of the documentation can be found on the [go.dev](https://pkg.go.dev/github.com/nahojer/httprouter?tab=doc) website.
 
+Is it Good? [Yes](https://news.ycombinator.com/item?id=3067434).
