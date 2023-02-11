@@ -2,7 +2,7 @@
 
 Idiomatic, fast and deliberately simple HTTP router for Go applications. Features:
 
-* Path paramerization.
+* Path parameterization.
 * Middleware, both router level and handler level.
 * Prefix matching.
 * Implements the `http.Handler` interface making it compliant with `http.ServeMux`.
